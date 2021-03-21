@@ -9,4 +9,4 @@ High level of C++, medium level of Frontend languages (HTML, CSS and Javascript)
 ![GaryNLOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true)
 
 ## Currently working on
-A private project.
+(Private project).
