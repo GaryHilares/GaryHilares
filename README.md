@@ -10,3 +10,6 @@ High level of C++, medium level of Frontend languages (HTML, CSS and Javascript)
 
 ## Currently working on
 (Private project).
+
+## Contact
+Email: garypastel@gmail.com
