@@ -9,7 +9,7 @@ High level of C++, medium level of Frontend languages (HTML, CSS and Javascript)
 ![GaryNLOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true)
 
 ## Currently working on
-(Private project).
+[![GSS_Parser Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 Email: garypastel@gmail.com
