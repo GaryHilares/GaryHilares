@@ -3,7 +3,7 @@
 I'm a versatile software developer who likes working on many platforms and APIs, mainly on front-end web development and desktop applications.
 
 ## Languages
-High level of C++, medium level of front-end web development languages (HTML, CSS and Javascript), Java, SML, Python and a low level on Visual Basic for Applications.
+High level of C++, medium level of front-end web development languages (HTML, CSS and Javascript), Java, SML, Python and a low level on NodeJS and Visual Basic for Applications.
 
 ## Stats
 [![GaryNLOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true)](https://github.com/GaryNLOL)
