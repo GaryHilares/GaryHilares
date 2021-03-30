@@ -12,7 +12,7 @@ High level of C++, medium level of front-end web development languages (HTML, CS
 [![GSS-Language Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GSS-Language)](https://github.com/GaryNLOL/GSS-Language)
 [![GViewer-Language Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GViewer)](https://github.com/GaryNLOL/GViewer)
 
-And 2 more closed-source projects...
+And 2 other closed-source projects...
 
 ## Contact
 Email: garypastel@gmail.com
