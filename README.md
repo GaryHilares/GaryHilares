@@ -10,7 +10,8 @@ High level of C++, medium level of front-end web development languages (HTML, CS
 
 ## Currently working on
 [![GSS-Language Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GSS-Language)](https://github.com/GaryNLOL/GSS-Language)
-[![GViewer-Language Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GViewer)](https://github.com/GaryNLOL/GViewer)
+[![GViewer Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GViewer)](https://github.com/GaryNLOL/GViewer)
+[![GBot Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GBot)](https://github.com/GaryNLOL/GBot)
 
 And 2 other closed-source projects...
 
