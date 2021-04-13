@@ -1,6 +1,6 @@
 # GaryNLOL codes his way into the battle!
 ## Who I am?
-I'm a versatile software developer who loves working hard to improve it skills.
+I'm a very motivated versatile software developer who loves working hard to improve it skills.
 
 - 📙 Currently, I'm learning DevOps technologies.
 - ♟️🎵 I also like to play chess and listen to music.
