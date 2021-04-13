@@ -33,5 +33,5 @@ C++ (Plus: SFML), front-end web development languages (HTML5, CSS3 and Javascrip
 
 And 2 other closed-source projects...
 
-## Contact
-[![GMail Icon](https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg)](https://mail.google.com/mail/?extsrc=mailto&url=mailto%3A%3Fto%3Dgarypastel@gmail.com)
+## Connect with me!
+[![Gmail Badge](https://img.shields.io/badge/Gmail-garypastel@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836)](https://mail.google.com/mail/?extsrc=mailto&url=mailto%3A%3Fto%3Dgarypastel@gmail.com)
