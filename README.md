@@ -34,4 +34,4 @@ C++ (Plus: SFML), front-end web development languages (HTML5, CSS3 and Javascrip
 And 2 other closed-source projects...
 
 ## Contact
-Email: garypastel@gmail.com
+Gmail: garypastel@gmail.com
