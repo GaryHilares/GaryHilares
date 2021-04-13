@@ -1,6 +1,6 @@
 # Nice to meet you!
 ## Who I am?
-I'm a versatile software developer who likes working on many platforms and APIs, mainly on front-end web development and desktop applications.
+I'm a versatile software developer who loves working hard to improve it skills.
 
 ## Languages
 C++, front-end web development languages (HTML, CSS and Javascript), Java, SML, Python, NodeJS and Visual Basic for Applications.
