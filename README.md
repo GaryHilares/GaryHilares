@@ -2,8 +2,8 @@
 ## Who I am?
 I'm a versatile software developer who loves working hard to improve it skills. Write me to my Email in the contact section if you have an interesting project in which you need help. If I can, I will very happy to help you!
 
-## Languages
-C++, front-end web development languages (HTML, CSS and Javascript), Java, SML, Python, NodeJS and Visual Basic for Applications.
+## Languages and technologies
+C++ (Plus: SFML), front-end web development languages (HTML, CSS and Javascript(Plus: JQuery, ReactJS)), Java, SML, Python (Plus: Django, Discord.py), NodeJS (Plus: Discord.js) and Visual Basic for Applications for Microsoft Office Excel.
 
 ## Stats
 [![GaryNLOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight)](https://github.com/GaryNLOL)
