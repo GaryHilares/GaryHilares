@@ -5,7 +5,7 @@ I'm a versatile software developer who loves working hard to improve it skills.
 
 📙 Currently, I'm learning DevOps technologies.
 
-✉️ Write me to my Email in the contact section if you have an interesting project in which you need help. If I can, I will very happy to help you!
+✉️ Write me to my Email in the contact section if you have an interesting project in which you need help. If I can, I will be delighted to help you!
 
 ## Languages and technologies
 C++ (Plus: SFML), front-end web development languages (HTML, CSS and Javascript (Plus: JQuery, ReactJS)), Java, SML, Python (Plus: Django, Discord.py), NodeJS (Plus: Discord.js) and Visual Basic for Applications for Microsoft Office Excel.
