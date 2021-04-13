@@ -1,6 +1,6 @@
 # Nice to meet you!
 ## Who I am?
-I'm a versatile software developer who loves working hard to improve it skills. Write me to my Email in the contact section if you have an interesting project in which you need help. I will more than happy to help you!
+I'm a versatile software developer who loves working hard to improve it skills. Write me to my Email in the contact section if you have an interesting project in which you need help. If I can, I will very happy to help you!
 
 ## Languages
 C++, front-end web development languages (HTML, CSS and Javascript), Java, SML, Python, NodeJS and Visual Basic for Applications.
