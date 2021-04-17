@@ -10,7 +10,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 ## My Skills
 <table width="100%" height="400">
   <td>
-<table align="left" width="50%" height="420">
+<table align="left" width="50%" height="373">
   <tr>
     <td><img alt="CPP Badge" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
