@@ -104,6 +104,17 @@ I'm a very motivated versatile software developer who loves working hard to impr
 </table>
 
 ## Connect with me!
-[![Gmail Badge](https://img.shields.io/badge/Gmail-garypastel@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836)](https://mail.google.com/mail/?extsrc=mailto&url=mailto%3A%3Fto%3Dgarypastel@gmail.com)
-[![Stack Overflow Badge](https://img.shields.io/badge/Stackoverflow-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16)](https://stackoverflow.com/users/12170808/garynlol)
-[![GitHub Badge](https://img.shields.io/badge/Github-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6)](https://github.com/GaryNLOL)
+
+<table width="100%">
+  <tr width="100%">
+    <td width="33%">
+      <img alt="GMail Badge" align="center" src="https://img.shields.io/badge/Gmail-garypastel@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836">
+    </td>
+    <td width="33%">
+      <img alt="Stack Overflow Badge" align="center" src="https://img.shields.io/badge/Stackoverflow-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16">
+    </td>
+    <td width="33%">
+      <img alt="GitHub Badge" align="center" src="https://img.shields.io/badge/Github-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6">
+    </td>
+  </tr>
+</table>
