@@ -10,7 +10,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 ## My Skills
 <table width="100%" height="420">
   <td>
-<table align="left" width="50%" height="350">
+<table align="left" width="50%" height="340">
   <tr>
     <td><img alt="CPP Badge" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
@@ -85,7 +85,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 <h2>Currently working on</h2>
 
 <table width="100%">
-  <tr>
+  <tr width="100%">
     <td width="50%">
       <img alt="GViewer Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GViewer&theme=tokyonight">
     </td>
@@ -93,9 +93,12 @@ I'm a very motivated versatile software developer who loves working hard to impr
       <img alt="GBot Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GBot&theme=tokyonight">
     </td>
   </tr>
-  <tr>
+  <tr width="100%">
     <td width="50%">
       <img alt="GSS-Language Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GSS-Language&theme=tokyonight">
+    </td>
+    <td>
+      <p align="center">Ganbaraneba (Closed Source Project)</p>
     </td>
   </tr>
 </table>
