@@ -104,10 +104,8 @@ I'm a very motivated versatile software developer who loves working hard to impr
 
 ## Connect with me!
 
-<table width="100%" align="center">
-  <tr width="100%">
-<td width="33%"><div align="center" width="100%"><img alt="GMail Badge" src="https://img.shields.io/badge/Gmail-garypastel@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"></div></td>
-<td width="34%"><div align="center" width="100%"><img alt="Stack Overflow Badge" src="https://img.shields.io/badge/Stackoverflow-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"></div></td>
-<td width="33%"><div align="center" width="100%"><img alt="GitHub Badge" src="https://img.shields.io/badge/Github-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"></div></td>
-  </tr>
-</table>
+<p align="center">
+  <img alt="GMail Badge" src="https://img.shields.io/badge/Gmail-garypastel@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836">
+  <img alt="Stack Overflow Badge" src="https://img.shields.io/badge/Stackoverflow-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16">
+  <img alt="GitHub Badge" src="https://img.shields.io/badge/Github-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6">
+</p>
