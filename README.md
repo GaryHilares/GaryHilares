@@ -75,7 +75,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
   </tr>
 </table><img src="https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight" width="50%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight" width="50%" align="right">
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<table align="left"></table>
 
 
 <h2>Currently working on</h2>
