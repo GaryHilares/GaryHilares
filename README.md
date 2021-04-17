@@ -73,12 +73,13 @@ I'm a very motivated versatile software developer who loves working hard to impr
     <td>Excel's VBA</td>
     <td align="left">🟨🟨🟨🟨🟨🟨</td>
   </tr>
-</table>
+</table><img src="https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight" width="50%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight" width="50%" align="right">
 
-[![GaryNLOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight)](https://github.com/GaryNLOL)
-[![GaryNLOL's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight)](https://github.com/GaryNLOL)
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-## Currently working on
+
+<h2>Currently working on</h2>
+
 [![GViewer Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GViewer&theme=tokyonight)](https://github.com/GaryNLOL/GViewer)
 [![GBot Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GBot&theme=tokyonight)](https://github.com/GaryNLOL/GBot)
 [![GSS-Language Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GSS-Language&theme=tokyonight)](https://github.com/GaryNLOL/GSS-Language)
