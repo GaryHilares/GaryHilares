@@ -16,7 +16,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td>SFML</td>
+    <td><strong>SFML</strong></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td>SML</td>
+    <td><strong>SML</strong></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
     <td align="left">🟨🟨🟨🟨🟨🟨</td>
   </tr>
   <tr>
-    <td>Excel's VBA</td>
+    <td><strong>Excel's VBA</strong></td>
     <td align="left">🟨🟨🟨🟨🟨🟨</td>
   </tr>
   </td>
