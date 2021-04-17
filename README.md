@@ -76,7 +76,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
     <td align="left">🟨🟨🟨🟨🟨🟨</td>
   </tr>
   </td>
-    <td>
+  <td>
 </table><img src="https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight" width="50%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight" width="50%" align="right">
 </td>
 </table>
@@ -84,9 +84,21 @@ I'm a very motivated versatile software developer who loves working hard to impr
 
 <h2>Currently working on</h2>
 
-[![GViewer Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GViewer&theme=tokyonight)](https://github.com/GaryNLOL/GViewer)
-[![GBot Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GBot&theme=tokyonight)](https://github.com/GaryNLOL/GBot)
-[![GSS-Language Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GSS-Language&theme=tokyonight)](https://github.com/GaryNLOL/GSS-Language)
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img alt="GViewer Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GViewer&theme=tokyonight">
+    </td>
+    <td width="50%">
+      <img alt="GBot Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GBot&theme=tokyonight">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img alt="GSS-Language Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GSS-Language&theme=tokyonight">
+    </td>
+  </tr>
+</table>
 
 And 2 other closed-source projects...
 
