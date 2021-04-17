@@ -8,7 +8,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 - ✉️ Write me to my Email in the contact section if you have an interesting project in which you need help. If I can, I will be delighted to help you!
 
 ## My Skills
-<table width="100%" height="420">
+<table width="100%" height="100%">
   <td>
 <table align="left" width="50%" height="373">
   <tr>
