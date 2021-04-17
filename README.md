@@ -76,7 +76,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 </table>
 
 [![GaryNLOL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight)](https://github.com/GaryNLOL)
-![GaryNLOL's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight)
+[![GaryNLOL's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight)](https://github.com/GaryNLOL)
 
 ## Currently working on
 [![GViewer Card](https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GViewer&theme=tokyonight)](https://github.com/GaryNLOL/GViewer)
