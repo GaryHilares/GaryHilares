@@ -9,6 +9,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 
 ## My Skills
 <table width="100%" height="420">
+  <tr width="100%">
   <td>
 <table align="left" width="50%" height="340">
   <tr>
@@ -75,10 +76,11 @@ I'm a very motivated versatile software developer who loves working hard to impr
     <td><strong>Excel's VBA</strong></td>
     <td align="left">🟨🟨🟨🟨🟨🟨</td>
   </tr>
+  </table>
   </td>
-  <td>
-</table><img src="https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight" width="50%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight" width="50%" align="right">
+  <td><img src="https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight" width="100%" align="right">
 </td>
+  </tr>
 </table>
 
 ## Currently working on
