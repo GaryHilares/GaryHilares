@@ -82,7 +82,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 </table>
 
 
-<h2>Currently working on</h2>
+## Currently working on
 
 <table width="100%">
   <tr width="100%">
@@ -98,7 +98,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
       <img alt="GSS-Language Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GSS-Language&theme=tokyonight">
     </td>
     <td>
-      <p align="center">Ganbaraneba (Closed Source Project)</p>
+      <p align="center">Ganbara Neba (Closed Source Project)</p>
     </td>
   </tr>
 </table>
@@ -106,6 +106,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 ## Connect with me!
 
 <table width="100%">
+  <tbody width="100%">
   <tr width="100%">
     <td width="33%">
       <div align="center"><img alt="GMail Badge" src="https://img.shields.io/badge/Gmail-garypastel@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"></div>
@@ -117,4 +118,5 @@ I'm a very motivated versatile software developer who loves working hard to impr
       <div align="center"><img alt="GitHub Badge" src="https://img.shields.io/badge/Github-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"></div>
     </td>
   </tr>
+    </tbody>
 </table>
