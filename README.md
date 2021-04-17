@@ -8,7 +8,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 - ✉️ Write me to my Email in the contact section if you have an interesting project in which you need help. If I can, I will be delighted to help you!
 
 ## My Skills
-<p width="100%">
+<div width="100%" height="100">
 <table align="left" width="50%" height="400">
   <tr>
     <td><img alt="CPP Badge" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"></td>
@@ -75,7 +75,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
     <td align="left">🟨🟨🟨🟨🟨🟨</td>
   </tr>
 </table><img src="https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight" width="50%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight" width="50%" align="right">
-</p>
+</div>
 
 
 <h2>Currently working on</h2>
