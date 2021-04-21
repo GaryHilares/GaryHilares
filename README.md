@@ -88,7 +88,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 <table width="100%">
   <tr width="100%">
     <td width="50%">
-      <img alt="GViewer Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GViewer&theme=tokyonight">
+      <img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Supple-Crystal&theme=tokyonight">
     </td>
     <td width="50%">
       <img alt="GBot Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GBot&theme=tokyonight">
