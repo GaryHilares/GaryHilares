@@ -88,15 +88,15 @@ I'm a very motivated versatile software developer who loves working hard to impr
 <table width="100%">
   <tr width="100%">
     <td width="50%">
-      <img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Supple-Crystal&theme=tokyonight">
+      <a href="https://github.com/GaryNLOL/Supple-Crystal"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Supple-Crystal&theme=tokyonight"></a>
     </td>
     <td width="50%">
-      <img alt="Rubber-Numbers Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Rubber-Numbers&theme=tokyonight">
+      <a href="https://github.com/GaryNLOL/Rubber-Numbers"><img alt="Rubber-Numbers Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Rubber-Numbers&theme=tokyonight"></a>
     </td>
   </tr>
   <tr width="100%">
     <td width="50%">
-      <img alt="GSS-Language Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GSS-Language&theme=tokyonight">
+      <a href="https://github.com/GaryNLOL/GSS-Language"><img alt="GSS-Language Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GSS-Language&theme=tokyonight"></a>
     </td>
     <td>
       <p align="center">Ganbara Neba (Closed Source Project)</p>
