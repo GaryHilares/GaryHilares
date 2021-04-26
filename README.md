@@ -78,7 +78,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
   </tr>
   </table>
   </td>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight" width="100%" align="right">
+  <td><a href="https://github.com/GaryNLOL/"><img src="https://github-readme-stats.vercel.app/api?username=GaryNLOL&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryNLOL&theme=tokyonight" width="100%" align="right"></a>
 </td>
   </tr>
 </table>
