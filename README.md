@@ -84,7 +84,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 </table>
 
 ## Currently working on
-
+<div align="center">
 <table width="100%">
   <tr width="100%">
     <td width="50%">
@@ -103,6 +103,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
     </td>
   </tr>
 </table>
+</div>
 
 ## Connect with me!
 
