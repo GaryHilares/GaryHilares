@@ -13,67 +13,67 @@ I'm a very motivated versatile software developer who loves working hard to impr
   <td>
 <table align="left" width="50%" height="340">
   <tr>
-    <td><img alt="CPP Badge" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"></td>
+    <td><a href="https://github.com/search?q=cpp"><img alt="CPP Badge" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><strong>SFML</strong></td>
+    <td><a href="https://www.sfml-dev.org/index.php"><strong>SFML</strong></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="HTML5 Badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></td>
+    <td><a href="https://github.com/search?q=html"><img alt="HTML5 Badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="CSS3 Badge" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></td>
+    <td><a href="https://github.com/search?q=css"><img alt="CSS3 Badge" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="JavaScript Badge" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
+    <td><a href="https://www.javascript.com/"><img alt="JavaScript Badge" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></td>
+    <td><a href="https://www.java.com/en/"><img alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><strong>SML</strong></td>
+    <td><a href="https://www.smlnj.org/"><strong>SML</strong></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="Python Badge" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></td>
+    <td><a href="https://www.python.org/"><img alt="Python Badge" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="Django Badge" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></td>
+    <td><a href="https://www.djangoproject.com/"><img alt="Django Badge" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="ReactJS Badge" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
+    <td><a href="https://reactjs.org/"><img alt="ReactJS Badge" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="Git Badge" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></td>
+    <td><a href="https://git-scm.com/"><img alt="Git Badge" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="GitHub Badge" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></td>
+    <td><a href="https://github.com/"><img alt="GitHub Badge" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="Markdown Badge" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"></td>
+    <td><a href="https://www.markdownguide.org/"><img alt="Markdown Badge" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><img alt="JQuery Badge" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"></td>
+    <td><a href="https://jquery.com/"><img alt="JQuery Badge" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"></a></td>
     <td align="left">🟨🟨🟨🟨🟨🟨</td>
   </tr>
   <tr>
-    <td><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></td>
+    <td><a href="https://nodejs.org/es/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a></td>
     <td align="left">🟨🟨🟨🟨🟨🟨</td>
   </tr>
   <tr>
-    <td><strong>Excel's VBA</strong></td>
+    <td><a href="https://www.microsoft.com/es-ww/microsoft-365/excel"><strong>Excel's VBA</strong></a></td>
     <td align="left">🟨🟨🟨🟨🟨🟨</td>
   </tr>
   </table>
