@@ -108,7 +108,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
 ## Connect with me!
 
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=garypastel@gmail.com"><img alt="GMail Badge" src="https://img.shields.io/badge/Gmail-garypastel@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dev.garynlol@gmail.com"><img alt="GMail Badge" src="https://img.shields.io/badge/Gmail-dev.garynlol@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"></a>
   <a href="https://stackoverflow.com/users/12170808/garynlol"><img alt="Stack Overflow Badge" src="https://img.shields.io/badge/Stackoverflow-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"></a>
   <a href="https://github.com/GaryNLOL/"><img alt="GitHub Badge" src="https://img.shields.io/badge/Github-GaryNLOL-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"></a>
 </p>
