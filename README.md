@@ -96,7 +96,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
   </tr>
   <tr width="100%">
     <td width="50%">
-      <a href="https://github.com/GaryNLOL/GSS-Language"><img alt="GSS-Language Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=GSS-Language&theme=tokyonight"></a>
+      <a href="https://github.com/GaryNLOL/Graphite-Logger"><img alt="Graphite-Logger Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Graphite-Logger&theme=tokyonight"></a>
     </td>
     <td>
       <p align="center">Ganbara Neba (Closed Source Project)</p>
