@@ -91,7 +91,7 @@ I'm a very motivated versatile software developer who loves working hard to impr
       <a href="https://github.com/GaryNLOL/Supple-Crystal"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Supple-Crystal&theme=tokyonight"></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/GaryNLOL/Rubber-Numbers"><img alt="Rubber-Numbers Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Rubber-Numbers&theme=tokyonight"></a>
+      <p align="center"></p>
     </td>
   </tr>
   <tr width="100%">
