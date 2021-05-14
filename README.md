@@ -1,4 +1,8 @@
-<h1 align="center"> GaryNLOL codes his way into the battle! </h1>
+<h1 align="center">GaryNLOL codes his way into the battle!</h1>
+<br>
+<p align="center">
+  <img src="https://banners.beyondco.de/GaryNLOL.png?theme=dark&packageManager=&packageName=&pattern=circuitBoard&style=style_1&description=A+very+motivated+software+developer&md=1&showWatermark=0&fontSize=100px&images=code" height="600">
+</p>
 
 ## Who I am?
 I'm a very motivated software developer who loves working hard to improve it skills.
