@@ -1,7 +1,7 @@
 <h1 align="center"> GaryNLOL codes his way into the battle! </h1>
 
 ## Who I am?
-I'm a very motivated versatile software developer who loves working hard to improve it skills.
+I'm a very motivated software developer who loves working hard to improve it skills.
 
 - 📙 Currently, I'm learning Machine Learning.
 - ♟️🎵 I also like to play chess and listen to music.
