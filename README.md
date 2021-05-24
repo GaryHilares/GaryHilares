@@ -5,7 +5,7 @@
 </p>
 
 ## Who I am?
-I'm a very motivated software developer who loves working hard to improve it skills.
+I'm a very motivated software developer who loves working hard to improve his skills.
 
 - 📙 Currently, I'm learning Machine Learning.
 - ♟️🎵 I also like to play chess and listen to music.
