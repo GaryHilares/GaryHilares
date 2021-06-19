@@ -1,7 +1,7 @@
 <h1 align="center">GaryNLOL codes his way into the battle!</h1>
 <br>
 <p align="center">
-  <img src="https://banners.beyondco.de/GaryNLOL.png?theme=dark&packageManager=&packageName=&pattern=circuitBoard&style=style_1&description=A+very+motivated+software+developer&md=1&showWatermark=0&fontSize=100px&images=code">
+  <img width="100%" alt="GaryNLOL-profile-banner" src="https://user-images.githubusercontent.com/46727048/122655541-a73ac900-d118-11eb-9aa2-1d8a25a425ff.png" />
 </p>
 
 ## Who I am?
