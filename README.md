@@ -95,7 +95,7 @@ I'm a very motivated software developer who loves working hard to improve his sk
       <a href="https://github.com/GaryNLOL/Supple-Crystal"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Supple-Crystal&theme=tokyonight"></a>
     </td>
     <td width="50%">
-      <p align="center">Unnamed Project (Closed Source Project)</p>
+      <p align="center">Strivesforward (Closed Source Project)</p>
     </td>
   </tr>
   <tr width="100%">
