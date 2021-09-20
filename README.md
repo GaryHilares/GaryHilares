@@ -29,6 +29,10 @@ I'm a very motivated software developer who loves working hard to improve his sk
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
+    <td><a href="https://www.python.org/"><img alt="Python Badge" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a></td>
+    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/search?q=css"><img alt="CSS3 Badge" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
@@ -37,16 +41,8 @@ I'm a very motivated software developer who loves working hard to improve his sk
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><a href="https://www.java.com/en/"><img alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
-  </tr>
-  <tr>
     <td><a href="https://www.smlnj.org/"><strong>SML</strong></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.python.org/"><img alt="Python Badge" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
     <td><a href="https://www.djangoproject.com/"><img alt="Django Badge" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></a></td>
@@ -66,6 +62,10 @@ I'm a very motivated software developer who loves working hard to improve his sk
   </tr>
   <tr>
     <td><a href="https://www.markdownguide.org/"><img alt="Markdown Badge" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"></a></td>
+    <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.java.com/en/"><img alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
