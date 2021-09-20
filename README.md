@@ -45,12 +45,8 @@ I'm a very motivated software developer who loves working hard to improve his sk
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><a href="https://www.djangoproject.com/"><img alt="Django Badge" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
-  </tr>
-  <tr>
     <td><a href="https://reactjs.org/"><img alt="ReactJS Badge" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
+    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
     <td><a href="https://git-scm.com/"><img alt="Git Badge" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></a></td>
@@ -67,6 +63,10 @@ I'm a very motivated software developer who loves working hard to improve his sk
   <tr>
     <td><a href="https://www.java.com/en/"><img alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.djangoproject.com/"><img alt="Django Badge" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></a></td>
+    <td align="left">🟨🟨🟨🟨🟨🟨</td>
   </tr>
   <tr>
     <td><a href="https://jquery.com/"><img alt="JQuery Badge" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"></a></td>
