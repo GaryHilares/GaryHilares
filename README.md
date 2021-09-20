@@ -7,7 +7,7 @@
 ## Who I am?
 I'm a very motivated software developer who loves working hard to improve his skills.
 
-- 📙 Currently, I'm learning backend development with Python.
+- 📙 Currently, I'm learning backend development with Python and Django.
 - ♟️🎵 I also like to play chess and listen to music.
 - ✉️ Write me to my Email in the contact section if you have an interesting project in which you need help. If I can, I will be delighted to help you!
 
