@@ -100,7 +100,7 @@ I'm a very motivated software developer who loves working hard to improve his sk
   </tr>
   <tr width="100%">
     <td width="50%">
-      <a href="https://github.com/GaryNLOL/Graphite-Logger"><img alt="Graphite-Logger Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Graphite-Logger&theme=tokyonight"></a>
+      <a href="https://github.com/GaryNLOL/Python-Scheduler"><img alt="Python-Scheduler Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Python-Scheduler&theme=tokyonight"></a>
     </td>
     <td>
       <p align="center">Ganbara Neba (Closed Source Project)</p>
