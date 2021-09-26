@@ -5,7 +5,7 @@
 </p>
 
 ## Who I am?
-I'm a very motivated software developer who loves working hard to improve his skills.
+I'm a very motivated student who loves working hard to improve his skills.
 
 - 📙 Currently, I'm learning backend development with Python and Django.
 - ♟️🎵 I also like to play chess and listen to music.
