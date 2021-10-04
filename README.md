@@ -95,7 +95,7 @@ I'm a very motivated student who loves working hard to improve his skills.
       <a href="https://github.com/GaryNLOL/Supple-Crystal"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Supple-Crystal&theme=tokyonight"></a>
     </td>
     <td width="50%">
-      <p align="center">Strivescope (Closed Source Project)</p>
+      <p align="center">Strivescope (Closed Source Project, Open sourcing soon)</p>
     </td>
   </tr>
   <tr width="100%">
@@ -103,7 +103,7 @@ I'm a very motivated student who loves working hard to improve his skills.
       <a href="https://github.com/GaryNLOL/Python-Scheduler"><img alt="Python-Scheduler Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Python-Scheduler&theme=tokyonight"></a>
     </td>
     <td>
-      <p align="center">Ganbara Neba (Closed Source Project)</p>
+      <p align="center">Ganbara Neba (Closed Source Project, Open sourcing soon)</p>
     </td>
   </tr>
 </table>
