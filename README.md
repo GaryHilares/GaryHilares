@@ -42,22 +42,22 @@ I'm a very motivated student who loves working hard to improve his skills.
   </tr>
   <tr>
     <td><a href="https://www.smlnj.org/"><strong>SML</strong></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
+    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
     <td><a href="https://reactjs.org/"><img alt="ReactJS Badge" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><a href="https://git-scm.com/"><img alt="Git Badge" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/"><img alt="GitHub Badge" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
+    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
     <td><a href="https://www.markdownguide.org/"><img alt="Markdown Badge" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"></a></td>
+    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
+  </tr>
+  <tr>
+    <td><a href="https://git-scm.com/"><img alt="Git Badge" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
@@ -66,11 +66,7 @@ I'm a very motivated student who loves working hard to improve his skills.
   </tr>
   <tr>
     <td><a href="https://www.djangoproject.com/"><img alt="Django Badge" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></a></td>
-    <td align="left">🟨🟨🟨🟨🟨🟨</td>
-  </tr>
-  <tr>
-    <td><a href="https://jquery.com/"><img alt="JQuery Badge" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"></a></td>
-    <td align="left">🟨🟨🟨🟨🟨🟨</td>
+    <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
     <td><a href="https://nodejs.org/es/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a></td>
