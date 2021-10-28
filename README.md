@@ -9,7 +9,7 @@ I'm a very motivated student who loves working hard to improve his skills.
 
 - 📙 Currently, I'm learning backend development with Python and Django.
 - ♟️🎵 I also like to play chess and listen to music.
-- ✉️ Write me to my email in the contact section if you have an interesting project in which you need help. If I can, I will be delighted to help you!
+- ✉️ Write to my email in the contact section if you have an interesting project in which you need help. If I can, I will be delighted to help you!
 
 ## My Skills
 <table width="100%" height="420">
