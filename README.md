@@ -69,11 +69,11 @@ I'm a very motivated student who loves working hard to improve his skills.
     <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><a href="https://nodejs.org/es/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a></td>
+    <td><a href="https://www.microsoft.com/es-ww/microsoft-365/excel"><strong>Excel's VBA</strong></a></td>
     <td align="left">🟨🟨🟨🟨🟨</td>
   </tr>
   <tr>
-    <td><a href="https://www.microsoft.com/es-ww/microsoft-365/excel"><strong>Excel's VBA</strong></a></td>
+    <td><a href="https://nodejs.org/es/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a></td>
     <td align="left">🟥🟥🟥</td>
   </tr>
   </table>
