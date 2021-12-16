@@ -91,7 +91,7 @@ I'm a very motivated student who loves working hard to improve his skills.
       <a href="https://github.com/GaryNLOL/Supple-Crystal"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryNLOL&repo=Supple-Crystal&theme=tokyonight"></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Strivescope"><img alt="Strivescope Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Strivescope&repo=.github&theme=tokyonight"></a>
+      <a href="https://github.com/Strivescope"><img alt="Strivescope Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Strivescope&repo=Strivescope&theme=tokyonight"></a>
     </td>
   </tr>
   <tr width="100%">
