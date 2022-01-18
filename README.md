@@ -5,7 +5,7 @@
 </p>
 
 ## Who I am?
-I'm a very motivated student who loves working hard to improve his skills.
+Hi everyone! My name is Gary and I'm a student from Peru. 🇵🇪 I'm happy when I get new experiences, learn new things or connect with amazing people! Currently I'm organizing a hackathon called µHacks. I usually work with Python, HTML5 /CSS3/Javascript, React  and C++, which is probably my favorite language as it is the one I started with. However, I also have some experience with Java and SML. Apart from coding, I love playing chess ♟️, listening to music 🎵 and writing stories ✍️. If you want help with anything or you just want to talk, you can contact me 👍!
 
 - 📙 Currently, I'm learning backend development with Python and Django.
 - ♟️🎵 I also like to play chess and listen to music.
