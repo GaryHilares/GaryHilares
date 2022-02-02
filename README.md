@@ -1,7 +1,7 @@
 <h1 align="center">Gary codes his way into the battle!</h1>
 <br>
 <p align="center">
-  <img width="100%" alt="GaryNLOL-profile-banner" src="https://banners.beyondco.de/Gary%20Striving.png?theme=dark&packageManager=&packageName=&pattern=ticTacToe&style=style_1&description=A+very+motivated+student&md=1&showWatermark=0&fontSize=100px&images=star&widths=350&heights=auto" />
+  <img width="100%" alt="GaryNLOL-profile-banner" src="https://user-images.githubusercontent.com/46727048/152215120-bca6f10f-8847-4e1e-8b34-21d200f32167.png" />
 </p>
 
 ## Who I am?
