@@ -1,4 +1,4 @@
-<h1 align="center">GaryNLOL codes his way into the battle!</h1>
+<h1 align="center">Gary Strivin' codes his way into the battle!</h1>
 <br>
 <p align="center">
   <img width="100%" alt="GaryNLOL-profile-banner" src="https://user-images.githubusercontent.com/46727048/122655541-a73ac900-d118-11eb-9aa2-1d8a25a425ff.png" />
