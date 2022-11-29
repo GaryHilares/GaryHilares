@@ -11,6 +11,8 @@ Hi everyone! My name is Gary and I'm a very motivated student who loves working 
 - ♟️🎵 I also love to play chess and listen to music.
 - ✉️ Write to my email in the contact section if you have an interesting project in which you need help. If I can, I'll be delighted to help you!
 
+*Visit my archived repositories [here](https://github.com/GaryStrivingArchive).*
+
 ## My Skills
 <table width="100%" height="420">
   <tr width="100%">
