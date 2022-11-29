@@ -83,23 +83,25 @@ Hi everyone! My name is Gary and I'm a very motivated student who loves working 
   </tr>
 </table>
 
+<!-- <a href="https://github.com/GaryStriving/Supple-Crystal"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryStriving&repo=Supple-Crystal&theme=tokyonight"></a> -->
+
 ## Currently working on
 <div align="center">
 <table width="100%">
   <tr width="100%">
     <td width="50%">
-      <a href="https://github.com/GaryStriving/Supple-Crystal"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryStriving&repo=Supple-Crystal&theme=tokyonight"></a>
+      Nothing here yet!
     </td>
     <td width="50%">
-      <a href="https://github.com/Strivescope"><img alt="Strivescope Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Strivescope&repo=Strivescope&theme=tokyonight"></a>
+      Nothing here yet!
     </td>
   </tr>
   <tr width="100%">
     <td width="50%">
-      <a href="https://github.com/GaryStriving/Python-Scheduler"><img alt="Python-Scheduler Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryStriving&repo=Python-Scheduler&theme=tokyonight"></a>
+      Nothing here yet!
     </td>
     <td>
-      <a href="https://github.com/GaryStriving/Ganbara-Neba"><img alt="Ganbara-Neba Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryStriving&repo=Ganbara-Neba&theme=tokyonight"></a>
+      Nothing here yet!
     </td>
   </tr>
 </table>
