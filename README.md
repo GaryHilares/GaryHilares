@@ -1,7 +1,7 @@
 <h1 align="center">Gary codes his way into the battle!</h1>
 <br>
 <p align="center">
-  <img width="100%" alt="GaryNLOL-profile-banner" src="https://user-images.githubusercontent.com/46727048/152216465-b97e0398-b157-4ba2-a2f4-64cb707806bf.jpg" />
+  <img width="100%" alt="GaryNLOL-profile-banner" src="https://user-images.githubusercontent.com/46727048/223039925-693cc706-5611-4394-af6c-ed56477239c3.jpg" />
 </p>
 
 ## Who I am?
