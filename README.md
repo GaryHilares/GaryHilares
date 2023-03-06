@@ -5,9 +5,9 @@
 </p>
 
 ## Who I am?
-Hi everyone! My name is Gary and I'm a very motivated student who loves working hard to improve his skills.
+Hi everyone! My name is Gary and I'm a very motivated full-stack web developer who loves working hard to improve his skills.
 
-- 📙 Currently, I'm learning backend development with Python and Django.
+- 📙 Currently reading: Docker Cookbook.
 - ♟️🎵 I also love to play chess and listen to music.
 - ✉️ For any inquiries, please contact me at garystriving@gmail.com.
 
