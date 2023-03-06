@@ -9,7 +9,7 @@ Hi everyone! My name is Gary and I'm a very motivated student who loves working 
 
 - 📙 Currently, I'm learning backend development with Python and Django.
 - ♟️🎵 I also love to play chess and listen to music.
-- ✉️ Write to my email in the contact section if you have an interesting project in which you need help. If I can, I'll be delighted to help you!
+- ✉️ For any inquiries, please email me to [garystriving@gmail.com](emailto:garystriving@gmail.com).
 
 *Visit my archived repositories [here](https://github.com/GaryStrivingArchive).*
 
