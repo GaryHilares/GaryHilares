@@ -87,28 +87,6 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
 
 <!-- <a href="https://github.com/GaryStriving/Supple-Crystal"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryStriving&repo=Supple-Crystal&theme=tokyonight"></a> -->
 
-## Currently working on
-<div align="center">
-<table width="100%">
-  <tr width="100%">
-    <td width="50%">
-      <a href="https://github.com/GaryStriving/Liberty-Arrow"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryStriving&repo=Liberty-Arrow&theme=tokyonight"></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/GaryStriving/Supple-Crystal"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryStriving&repo=Supple-Crystal&theme=tokyonight"></a>
-    </td>
-  </tr>
-  <tr width="100%">
-    <td width="50%">
-      Nothing here yet!
-    </td>
-    <td>
-      Nothing here yet!
-    </td>
-  </tr>
-</table>
-</div>
-
 ## Connect with me!
 
 <p align="center">
