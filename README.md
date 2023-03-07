@@ -18,6 +18,10 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   <td>
 <table align="left" width="50%" height="340">
   <tr>
+    <td><a href="https://nodejs.org/es/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a></td>
+    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/search?q=cpp"><img alt="CPP Badge" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
@@ -31,7 +35,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   </tr>
   <tr>
     <td><a href="https://www.python.org/"><img alt="Python Badge" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
+    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
     <td><a href="https://github.com/search?q=css"><img alt="CSS3 Badge" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a></td>
@@ -72,10 +76,6 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   <tr>
     <td><a href="https://www.microsoft.com/es-ww/microsoft-365/excel"><strong>Excel's VBA</strong></a></td>
     <td align="left">🟥🟥🟥🟥</td>
-  </tr>
-  <tr>
-    <td><a href="https://nodejs.org/es/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a></td>
-    <td align="left">🟥🟥🟥</td>
   </tr>
   </table>
   </td>
