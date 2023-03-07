@@ -10,8 +10,6 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
 - ♟️🎵 I also love to play chess and listen to music.
 - ✉️ For any inquiries, please contact me at garystriving@gmail.com.
 
-*Visit my archived repositories [here](https://github.com/GaryStrivingArchive).*
-
 ## My Skills
 <table width="100%" height="420">
   <tr width="100%">
@@ -57,3 +55,5 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   </td>
   <td><a href="https://github.com/GaryStriving/"><img src="https://github-readme-stats.vercel.app/api?username=GaryStriving&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryStriving&theme=tokyonight" width="100%" align="right"></a>
 </td> </tr> </table>
+
+*Visit my archived repositories [here](https://github.com/GaryStrivingArchive).*
