@@ -57,11 +57,3 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   </td>
   <td><a href="https://github.com/GaryStriving/"><img src="https://github-readme-stats.vercel.app/api?username=GaryStriving&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryStriving&theme=tokyonight" width="100%" align="right"></a>
 </td> </tr> </table>
-
-## Connect with me!
-
-<p align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=garystriving@gmail.com"><img alt="GMail Badge" src="https://img.shields.io/badge/Gmail-garystriving@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"></a>
-  <a href="https://stackoverflow.com/users/12170808/gary-strivin"><img alt="Stack Overflow Badge" src="https://img.shields.io/badge/Stackoverflow-GaryStrivin'-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"></a>
-  <a href="https://github.com/GaryStriving/"><img alt="GitHub Badge" src="https://img.shields.io/badge/Github-GaryStriving-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"></a>
-</p>
