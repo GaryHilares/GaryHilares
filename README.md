@@ -65,14 +65,6 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
     <td><a href="https://www.java.com/en/"><img alt="Java Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩</td>
   </tr>
-  <tr>
-    <td><a href="https://www.djangoproject.com/"><img alt="Django Badge" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"></a></td>
-    <td align="left">🟨🟨🟨🟨🟨</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.microsoft.com/es-ww/microsoft-365/excel"><strong>Excel's VBA</strong></a></td>
-    <td align="left">🟥🟥🟥🟥</td>
-  </tr>
   </table>
   </td>
   <td><a href="https://github.com/GaryStriving/"><img src="https://github-readme-stats.vercel.app/api?username=GaryStriving&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryStriving&theme=tokyonight" width="100%" align="right"></a>
