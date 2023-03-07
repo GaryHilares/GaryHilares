@@ -85,8 +85,6 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   </tr>
 </table>
 
-<!-- <a href="https://github.com/GaryStriving/Supple-Crystal"><img alt="Supple-Crystal Card" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaryStriving&repo=Supple-Crystal&theme=tokyonight"></a> -->
-
 ## Connect with me!
 
 <p align="center">
