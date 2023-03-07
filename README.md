@@ -42,7 +42,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><a href="https://www.smlnj.org/"><strong>SML</strong></a></td>
+    <td><a href="https://www.smlnj.org/"><strong>SMLNJ</strong></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
