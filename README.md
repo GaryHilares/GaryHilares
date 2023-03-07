@@ -1,4 +1,3 @@
-<h1 align="center">Gary codes his way into the battle!</h1>
 <br>
 <p align="center">
   <img width="100%" alt="GaryNLOL-profile-banner" src="https://user-images.githubusercontent.com/46727048/223039925-693cc706-5611-4394-af6c-ed56477239c3.jpg" />
@@ -81,9 +80,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   </table>
   </td>
   <td><a href="https://github.com/GaryStriving/"><img src="https://github-readme-stats.vercel.app/api?username=GaryStriving&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryStriving&theme=tokyonight" width="100%" align="right"></a>
-</td>
-  </tr>
-</table>
+</td> </tr> </table>
 
 ## Connect with me!
 
