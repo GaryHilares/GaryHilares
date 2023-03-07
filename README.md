@@ -54,10 +54,6 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
-    <td><a href="https://www.markdownguide.org/"><img alt="Markdown Badge" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
-  </tr>
-  <tr>
     <td><a href="https://git-scm.com/"><img alt="Git Badge" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
