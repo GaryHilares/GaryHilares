@@ -18,15 +18,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   <td>
 <table align="left" width="50%" height="340">
   <tr>
-    <td><a href="https://nodejs.org/es/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/search?q=cpp"><img alt="CPP Badge" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"></a></td>
-    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.sfml-dev.org/index.php"><strong>SFML</strong></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
@@ -44,6 +36,10 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   <tr>
     <td><a href="https://www.javascript.com/"><img alt="JavaScript Badge" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a></td>
     <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩🟩</td>
+  </tr>
+  <tr>
+    <td><a href="https://nodejs.org/es/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></a></td>
+    <td align="left">🟩🟩🟩🟩🟩🟩🟩🟩</td>
   </tr>
   <tr>
     <td><a href="https://www.smlnj.org/"><strong>SML</strong></a></td>
