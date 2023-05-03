@@ -53,7 +53,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   </tr>
   </table>
   </td>
-  <td><a href="https://github.com/GaryStriving/"><img src="https://github-readme-stats.vercel.app/api?username=GaryStriving&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryStriving&theme=tokyonight" width="100%" align="right"></a>
+  <td><a href="https://github.com/GaryHilares/"><img src="https://github-readme-stats.vercel.app/api?username=GaryHilares&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryHilares&theme=tokyonight" width="100%" align="right"></a>
 </td> </tr> </table>
 
-*Visit my archived repositories [here](https://github.com/GaryStrivingArchive).*
+*Visit my archived repositories [here](https://github.com/GaryHilaresArchive).*
