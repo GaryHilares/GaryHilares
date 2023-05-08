@@ -56,4 +56,35 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
   <td><a href="https://github.com/GaryHilares/"><img src="https://github-readme-stats.vercel.app/api?username=GaryHilares&show_icons=true&theme=tokyonight" width="100%" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GaryHilares&theme=tokyonight" width="100%" align="right"></a>
 </td> </tr> </table>
 
+## Project Index
+### Desktop Applications
+#### Supple Crystal
+- **[Supple Crystal](https://github.com/GaryHilares/Supple-Crystal):** A transformable lightweight/advanced image viewer.
+#### Auto Blue Grid
+- **[Auto Blue Grid](https://github.com/GaryHilares/Auto_Blue_Grid):** Takes a screenshot by pressing "Ctrl + L" and display it in a new window with a blue grid.
+#### GIF Progress Bar Editor
+- **[GIF Progress Bar Editor](https://github.com/GaryHilares/GIF_Progress_Bar_Editor):** Easy and fast way to add a progress bar to your GIF.
+### Web Applications
+#### Liberty Arrow
+- **[Liberty Arrow](https://github.com/GaryHilares/Liberty-Arrow):** Browser extension for blocking websites to improve productivity.
+- **[Liberty Arrow backend](https://github.com/GaryHilares/Liberty-Arrow-backend):** No description.
+#### Plain Text Encryption
+- **[Plain Text Encryption](https://github.com/GaryHilares/Plain-Text-Encryption):** A very simple plain text encrypting/decrypting site that uses AES.
+#### MicroHacks Website
+- **[MicroHacks Website](https://github.com/GaryHilares/MicroHacks-Website):** Website for µHacks (a. k. a. MicroHacks) hackathon, which will be held between January 21 and January 23.
+#### SDM Website
+- **[SDM Website](https://github.com/GaryHilares/SDM-Website):**  Sonrisas del Mañana's website. 
+### Mobile Applications
+#### GeoSMS2
+- **[GeoSMS2_Frontend](https://github.com/GaryHilares/GeoSMS2_Frontend):** No description.
+- **[GeoSMS2_Backend](https://github.com/GaryHilares/GeoSMS2_Backend):** API for GeoSMS2, a project which seeks to help people in Andean areas in Peru.
+### Games
+#### Chess
+- **[Chess](https://github.com/GaryHilares/Chess):** A chess game interface created using SFML and C++.
+#### Discard Duel
+- **[Discard Duel](https://github.com/GaryHilares/Discard-Duel):** A duel of discarding to form a straight.
+### Others
+#### Web Examples & Demonstrations
+- **[Layouts Demonstration](https://github.com/GaryHilares/Layouts-Demonstration):** No description.
+### Unmaintained Projects
 *Visit my archived repositories [here](https://github.com/GaryHilaresArchive).*
