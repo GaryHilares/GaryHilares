@@ -8,7 +8,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
 
 - 📙 Currently reading: Docker Cookbook.
 - ♟️🎵 I also love to play chess and listen to music.
-- ✉️ For any inquiries, please contact me at garystriving@gmail.com.
+- ✉️ For any inquiries, please contact me at dev.garyhilares@gmail.com.
 
 ## My Skills
 <table width="100%" height="420">
