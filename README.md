@@ -86,5 +86,5 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
 ### Others
 #### Web Examples & Demonstrations
 - **[Layouts Demonstration](https://github.com/GaryHilares/Layouts-Demonstration):** No description.
-#### Unmaintained Projects
+#### Archived Repositories
 *Visit my archived repositories [here](https://github.com/GaryHilaresArchive).*
