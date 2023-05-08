@@ -59,7 +59,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
 ## Project Index
 ### Desktop Applications
 #### Supple Crystal
-- **[Supple Crystal](https://github.com/GaryHilares/Supple-Crystal):** A transformable lightweight/advanced image viewer.
+- **[Supple Crystal](https://github.com/GaryHilares/Supple-Crystal):** An efficient and versatile lightweight/advanced image viewer.
 #### Auto Blue Grid
 - **[Auto Blue Grid](https://github.com/GaryHilares/Auto_Blue_Grid):** Takes a screenshot by pressing "Ctrl + L" and display it in a new window with a blue grid.
 #### GIF Progress Bar Editor
