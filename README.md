@@ -79,7 +79,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
 ### Mobile Applications
 #### GeoSMS2
 - **[GeoSMS2_Frontend](https://github.com/GaryHilares/GeoSMS2_Frontend):** No description.
-- **[GeoSMS2_Backend](https://github.com/GaryHilares/GeoSMS2_Backend):** API for GeoSMS2, a project which seeks to help people in Andean areas in Peru.
+- **[GeoSMS2_Backend](https://github.com/GaryHilares/GeoSMS2_Backend):** API created for the GeoSMS2 project. t provides functionality to carry out many actions, such as translating text, getting the latest news, telling jokes, searching in Google, and solving mathematical expressions.
 ### Games
 #### Chess
 - **[Chess](https://github.com/GaryHilares/Chess):** A chess game interface created using SFML and C++.
