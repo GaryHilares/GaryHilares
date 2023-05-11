@@ -78,7 +78,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
 - **[SDM Website](https://github.com/GaryHilares/SDM-Website):**  Sonrisas del Mañana's website. 
 ### Mobile Applications
 #### GeoSMS2
-- **[GeoSMS2_Frontend](https://github.com/GaryHilares/GeoSMS2_Frontend):** No description.
+- **[GeoSMS2_Frontend](https://github.com/GaryHilares/GeoSMS2_Frontend):** Mobile application which acts as frontend for the backend of the GeoSMS2 project. It connects the SMS that any users send to the mobile running the application with the GeoSMS2 Backend.
 - **[GeoSMS2_Backend](https://github.com/GaryHilares/GeoSMS2_Backend):** API created for the GeoSMS2 project. t provides functionality to carry out many actions, such as translating text, getting the latest news, telling jokes, searching in Google, and solving mathematical expressions.
 ### Games
 #### Chess
