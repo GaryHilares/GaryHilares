@@ -71,7 +71,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
 #### Simply Organize
 - **[Simply Organize](https://github.com/GaryHilares/Simply-Organize):** A simple yet powerful calendar application with just the exact features to organize yourself. 
 #### Plain Text Encryption
-- **[Plain Text Encryption](https://github.com/GaryHilares/Plain-Text-Encryption):** A very simple plain text encrypting/decrypting site that uses AES.
+- **[Plain Text Encryption](https://github.com/GaryHilares/Plain-Text-Encryption):** A very simple plain text encrypting/decrypting website that uses AES.
 #### MicroHacks Website
 - **[MicroHacks Website](https://github.com/GaryHilares/MicroHacks-Website):** Website for µHacks (a. k. a. MicroHacks) hackathon, which will be held between January 21 and January 23.
 #### SDM Website
