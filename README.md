@@ -87,6 +87,6 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
 - **[Discard Duel](https://github.com/GaryHilares/Discard-Duel):** A game where you have to form a straight with 5 of your cards before your AI opponent does.
 ### Others
 #### Web Examples & Demonstrations
-- **[Layouts Demonstration](https://github.com/GaryHilares/Layouts-Demonstration):** No description.
+- **[Layouts Demonstration](https://github.com/GaryHilares/Layouts-Demonstration):** Examples of different types of layouts in HTML, CSS and JS.
 #### Archived Repositories
 *Visit my archived repositories [here](https://github.com/GaryHilaresArchive).*
