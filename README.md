@@ -67,7 +67,7 @@ Hi everyone! My name is Gary and I'm a very motivated full-stack web developer w
 ### Web Applications
 #### Liberty Arrow
 - **[Liberty Arrow](https://github.com/GaryHilares/Liberty-Arrow):** Browser extension for blocking websites to improve productivity.
-- **[Liberty Arrow backend](https://github.com/GaryHilares/Liberty-Arrow-backend):** No description.
+- **[Liberty Arrow backend](https://github.com/GaryHilares/Liberty-Arrow-backend):** A serverless backend to provide server-side functionality for the Liberty Arrow browser extension.
 #### Simply Organize
 - **[Simply Organize](https://github.com/GaryHilares/Simply-Organize):** A simple yet powerful calendar application with just the exact features to organize yourself. 
 #### Plain Text Encryption
