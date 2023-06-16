@@ -4,7 +4,7 @@
 </p>
 
 ## Who I am?
-Hi everyone! My name is Gary and I'm a very motivated full-stack web developer who loves working hard to improve his skills.
+Hi everyone! My name is Gary and I'm a very motivated back-end web developer who loves working hard to improve his skills.
 
 - 📙 Currently reading: Docker Cookbook.
 - ♟️🎵 🚴 I also love to play chess, listen to music and doing exercise.
