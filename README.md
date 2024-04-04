@@ -1,13 +1,8 @@
-<br>
-<p align="center">
-  <img width="100%" alt="GaryNLOL-profile-banner" src="https://user-images.githubusercontent.com/46727048/223039925-693cc706-5611-4394-af6c-ed56477239c3.jpg" />
-</p>
-
 ## Who I am?
-Hi everyone! My name is Gary and I'm a very motivated back-end web developer who loves working hard to improve his skills.
+Hi everyone! My name is Gary and I'm a very motivated Computer Science student who loves working hard to improve his skills.
 
-- 📙 Currently reading: Docker Cookbook.
-- ♟️🎵 🚴 I also love to play chess, listen to music and doing exercise.
+- 📙 Currently reading: A book about Leonhard Euler.
+- ♟️🎵 🚴 I also love to play chess and listen to music.
 - ✉️ For any inquiries, please contact me at dev.garyhilares@gmail.com.
 
 ## My Skills
