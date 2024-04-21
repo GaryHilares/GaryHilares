@@ -1,8 +1,6 @@
 ## Who I am?
 Hi everyone! My name is Gary and I'm a very motivated Computer Science student who loves working hard to improve his skills.
 
-- 📙 Currently reading: A book about Leonhard Euler.
-- ♟️🎵 🚴 I also love to play chess and listen to music.
 - ✉️ For any inquiries, please contact me at dev.garyhilares@gmail.com.
 
 ## My Skills
@@ -52,36 +50,4 @@ Hi everyone! My name is Gary and I'm a very motivated Computer Science student w
 </td> </tr> </table>
 
 ## Project Index
-### Desktop Applications
-#### Supple Crystal
-- **[Supple Crystal](https://github.com/GaryHilares/Supple-Crystal):** An efficient and versatile lightweight/advanced image viewer.
-#### Auto Blue Grid
-- **[Auto Blue Grid](https://github.com/GaryHilares/Auto_Blue_Grid):** Takes a screenshot by pressing "Ctrl + L" and display it in a new window with a blue grid.
-#### GIF Progress Bar Editor
-- **[GIF Progress Bar Editor](https://github.com/GaryHilares/GIF_Progress_Bar_Editor):** Easy and fast way to add a progress bar to your GIF.
-### Web Applications
-#### Liberty Arrow
-- **[Liberty Arrow](https://github.com/GaryHilares/Liberty-Arrow):** Browser extension for blocking websites to improve productivity.
-- **[Liberty Arrow backend](https://github.com/GaryHilares/Liberty-Arrow-backend):** A serverless backend to provide server-side functionality for the Liberty Arrow browser extension.
-#### Simply Organize
-- **[Simply Organize](https://github.com/GaryHilares/Simply-Organize):** A simple yet powerful calendar application with just the exact features to organize yourself. 
-#### Plain Text Encryption
-- **[Plain Text Encryption](https://github.com/GaryHilares/Plain-Text-Encryption):** A very simple plain text encrypting/decrypting website that uses AES.
-#### MicroHacks Website
-- **[MicroHacks Website](https://github.com/GaryHilares/MicroHacks-Website):** Website for µHacks (a. k. a. MicroHacks) hackathon, which will be held between January 21 and January 23.
-#### SDM Website
-- **[SDM Website](https://github.com/GaryHilares/SDM-Website):**  Sonrisas del Mañana's website. 
-### Mobile Applications
-#### GeoSMS2
-- **[GeoSMS2_Frontend](https://github.com/GaryHilares/GeoSMS2_Frontend):** Mobile application which acts as frontend for the backend of the GeoSMS2 project. It connects the SMS that any users send to the mobile running the application with the GeoSMS2 Backend.
-- **[GeoSMS2_Backend](https://github.com/GaryHilares/GeoSMS2_Backend):** API created for the GeoSMS2 project. t provides functionality to carry out many actions, such as translating text, getting the latest news, telling jokes, searching in Google, and solving mathematical expressions.
-### Games
-#### Chess
-- **[Chess](https://github.com/GaryHilares/Chess):** A chess game interface created using SFML and C++.
-#### Discard Duel
-- **[Discard Duel](https://github.com/GaryHilares/Discard-Duel):** A game where you have to form a straight with 5 of your cards before your AI opponent does.
-### Others
-#### Web Examples & Demonstrations
-- **[Layouts Demonstration](https://github.com/GaryHilares/Layouts-Demonstration):** Examples of different types of layouts in HTML, CSS and JS.
-#### Archived Repositories
-*Visit my archived repositories [here](https://github.com/GaryHilaresArchive).*
+I'll at some point in time create a website to summarize all of the projects that I have done (it might be not soon).
