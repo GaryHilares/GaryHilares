@@ -2,7 +2,7 @@
 Hi everyone! My name is Gary and I'm a very motivated Computer Science student who loves working hard to improve his skills.
 
 - ✉️ For any inquiries, please contact me at dev.garyhilares@gmail.com.
-
+<!--
 ## My Skills
 <table width="100%" height="420">
   <tr width="100%">
@@ -50,4 +50,4 @@ Hi everyone! My name is Gary and I'm a very motivated Computer Science student w
 </td> </tr> </table>
 
 ## Project Index
-I'll at some point in time create a website to summarize all of the projects that I have done (it might be not soon).
+I'll at some point in time create a website to summarize all of the projects that I have done (it might be not soon).-->
